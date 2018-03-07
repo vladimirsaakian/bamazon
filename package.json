@@ -1,0 +1,16 @@
+{
+  "name": "week-12-homework",
+  "version": "1.0.0",
+  "description": "mySQL and Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Saakian",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "mysql": "^2.10.2",
+    "prompt": "^1.0.0"
+  }
+}
